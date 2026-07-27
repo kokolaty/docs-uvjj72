@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-i10700.salamcuan.online/sitemap.xml
